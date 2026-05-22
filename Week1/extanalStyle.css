@@ -1,0 +1,13 @@
+selector {
+    property: value;
+}
+h1 {
+    color: blue;
+}
+
+/*
+thay cho kiểu viết 
+<h1 style="color: blue;">Hello World!</h1>
+
+bởi cách viết này không linh hoạt và không phù hợp khi muốn màu sắc khác nhau và thay đổi nhiều phần tử
+*/
