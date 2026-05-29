@@ -1,0 +1,31 @@
+p{
+    text-align: center; 
+    /* căn giữa*/
+}
+
+h1{
+    text-align: center;
+    /* đổi phông chữ */
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* img{
+    width : 50%
+} */
+
+div{
+    display: inline-block;
+    /* đổi từ khối sang nội tuyến ( theo kiểu dạng dòng) */
+    /* nó chỉ chiếm không gian nó cần, thay đổi theo kích thước trang web */
+}
+
+div {
+    display: block;
+    /* chuyển từ nội tuyến sang dạng khối
+    cho mỗi phần tử là 1 dòng riêng biệt */
+}
+
+div {
+    display: none;
+    /* ẩn đi tất cả các phẩn tử trong trang web*/
+}
